@@ -6,7 +6,7 @@
 
 ## Languages
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/React JS-white?style=flat&logo=React&logoColor=#61DAFB"/>
+<img src="https://img.shields.io/badge/React JS-#61DAFB?style=flat&logo=React&logoColor=#61DAFB"/>
 <!--
 **pjy008008/pjy008008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
