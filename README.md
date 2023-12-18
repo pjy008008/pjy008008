@@ -3,7 +3,7 @@
 #### I enjoy playing the piano🎶, take picture📷
 <br/>
 
-[![pjy008008's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjy008008)](https://github.com/pjy008008/github-readme-stats)
+[![pjy008008's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjy008008&theme=radical)](https://github.com/pjy008008/github-readme-stats)
 <br/>
 
 ## 🔎Skills
