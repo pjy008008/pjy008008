@@ -2,8 +2,10 @@
 ### Study software in Chungbuk National University
 #### I enjoy playing the piano🎶, take picture📷
 <br/>
+
 [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
 <br/>
+
 ## 🔎Skills
 
 ### Languages
