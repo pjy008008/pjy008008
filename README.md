@@ -40,7 +40,7 @@ Wanna Be FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 #### 🌱 Spring Study Organization  
 [![Org](https://img.shields.io/badge/GitHub-JunyouPark--spring--study-green?logo=spring&style=for-the-badge)](https://github.com/JunyouPark-spring-study)  
 - I'm managing my Spring Boot study projects in this organization.  
-- Each project focuses on different topics such as simple services, REST APIs, and more.
+- This Git Organization is designed to support comprehensive Spring learning, with each repository focusing on different core and advanced aspects of the framework
 
 #### 🗒️ TIL (Today I Learned)  
 [![TIL](https://img.shields.io/badge/github-TIL-yellow?logo=markdown&style=for-the-badge)](https://github.com/pjy008008/TIL)  
