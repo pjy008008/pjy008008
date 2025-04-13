@@ -1,8 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
-</div>
 
----
 
 ### :man_technologist: About Me :
 Wanna Be FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Developer  
@@ -34,8 +30,7 @@ Wanna Be FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ---
 
-<details>
-  <summary>📚 <strong>My Study Projects</strong></summary>
+### 📚 My Study Projects
 
 #### 💡 Java Study Repository  
 [![Repo](https://img.shields.io/badge/github-java_study-blue?logo=github&style=for-the-badge)](https://github.com/pjy008008/java_study)  
@@ -50,8 +45,6 @@ Wanna Be FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 #### 🗒️ TIL (Today I Learned)  
 [![TIL](https://img.shields.io/badge/github-TIL-yellow?logo=markdown&style=for-the-badge)](https://github.com/pjy008008/TIL)  
 - This repository is a daily log of what I’ve learned.  
-
-</details>
 
 ---
 
