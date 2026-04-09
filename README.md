@@ -31,6 +31,12 @@ Wanna Be FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 </div>
 
 ---
+### :fire: My Stats :
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjy008008)](https://solved.ac/pjy008008)
+
+---
 
 ### 📚 My Study Projects
 #### 🗒️ TIL (Today I Learned)  
@@ -41,12 +47,3 @@ Wanna Be FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 [![Org](https://img.shields.io/badge/GitHub-JunyouPark--spring--study-green?logo=spring&style=for-the-badge)](https://github.com/JunyouPark-spring-study)  
 - I'm managing my Spring Boot study projects in this organization.  
 - This Git Organization is designed to support comprehensive Spring learning, with each repository focusing on different core and advanced aspects of the framework
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pjy008008&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjy008008)](https://solved.ac/pjy008008)
