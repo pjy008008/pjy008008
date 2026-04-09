@@ -33,20 +33,14 @@ Wanna Be FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 ---
 
 ### 📚 My Study Projects
-
-#### 💡 Java Study Repository  
-[![Repo](https://img.shields.io/badge/github-java_study-blue?logo=github&style=for-the-badge)](https://github.com/pjy008008/java_study)  
-- This repository contains my Java learning journey.  
-- Includes Java syntax practice, object-oriented programming examples, and algorithm study files.
+#### 🗒️ TIL (Today I Learned)  
+[![TIL](https://img.shields.io/badge/github-TIL-yellow?logo=markdown&style=for-the-badge)](https://github.com/pjy008008/TIL)  
+- This repository is a daily log of what I’ve learned.
 
 #### 🌱 Spring Study Organization  
 [![Org](https://img.shields.io/badge/GitHub-JunyouPark--spring--study-green?logo=spring&style=for-the-badge)](https://github.com/JunyouPark-spring-study)  
 - I'm managing my Spring Boot study projects in this organization.  
 - This Git Organization is designed to support comprehensive Spring learning, with each repository focusing on different core and advanced aspects of the framework
-
-#### 🗒️ TIL (Today I Learned)  
-[![TIL](https://img.shields.io/badge/github-TIL-yellow?logo=markdown&style=for-the-badge)](https://github.com/pjy008008/TIL)  
-- This repository is a daily log of what I’ve learned.  
 
 ---
 
@@ -54,4 +48,5 @@ Wanna Be FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pjy008008&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjy008008&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjy008008)](https://solved.ac/pjy008008)
