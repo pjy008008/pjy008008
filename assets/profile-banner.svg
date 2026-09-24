@@ -1,26 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
   <title id="title">Junyou Park — Backend Developer</title>
-  <desc id="description">네이비, 보라, 청록빛 그라데이션이 천천히 흐르는 박준유의 프로필 배너입니다. 이름과 직무는 고정되며 동작 줄이기 설정에서는 배경도 멈춥니다.</desc>
+  <desc id="description">검정에 가까운 네이비 배경에 낮은 채도의 어두운 그라데이션이 은은하게 흐르는 박준유의 프로필 배너입니다. 이름과 직무는 고정되며 동작 줄이기 설정에서는 배경도 멈춥니다.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#172340" />
-      <stop offset="0.5" stop-color="#211C3B" />
-      <stop offset="1" stop-color="#123940" />
+      <stop stop-color="#090D15" />
+      <stop offset="0.5" stop-color="#101522" />
+      <stop offset="1" stop-color="#0C1921" />
     </linearGradient>
     <radialGradient id="violet">
-      <stop stop-color="#9370E8" stop-opacity="0.65" />
-      <stop offset="0.45" stop-color="#7760CC" stop-opacity="0.3" />
-      <stop offset="1" stop-color="#7760CC" stop-opacity="0" />
+      <stop stop-color="#34435D" stop-opacity="0.24" />
+      <stop offset="0.45" stop-color="#28364C" stop-opacity="0.1" />
+      <stop offset="1" stop-color="#28364C" stop-opacity="0" />
     </radialGradient>
     <radialGradient id="teal">
-      <stop stop-color="#59C9CC" stop-opacity="0.55" />
-      <stop offset="0.45" stop-color="#3CA9B7" stop-opacity="0.25" />
-      <stop offset="1" stop-color="#3CA9B7" stop-opacity="0" />
+      <stop stop-color="#2C4653" stop-opacity="0.22" />
+      <stop offset="0.45" stop-color="#253C48" stop-opacity="0.09" />
+      <stop offset="1" stop-color="#253C48" stop-opacity="0" />
     </radialGradient>
     <linearGradient id="border" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#B6ACEC" stop-opacity="0.45" />
-      <stop offset="0.5" stop-color="#BCCBEE" stop-opacity="0.08" />
-      <stop offset="1" stop-color="#99E4DA" stop-opacity="0.35" />
+      <stop stop-color="#596779" stop-opacity="0.2" />
+      <stop offset="0.5" stop-color="#435166" stop-opacity="0.04" />
+      <stop offset="1" stop-color="#627B89" stop-opacity="0.16" />
     </linearGradient>
     <clipPath id="frame">
       <rect width="1200" height="260" rx="20" />
