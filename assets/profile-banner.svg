@@ -1,41 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
   <title id="title">Junyou Park — Backend Developer</title>
-  <desc id="description">박준유의 프로필 배너. 짙은 네이비 배경에 이름과 백엔드 개발자 문구, 간결한 서버 연결 모양을 담았습니다.</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#101827" />
-      <stop offset="1" stop-color="#182B37" />
-    </linearGradient>
-    <clipPath id="frame">
-      <rect width="1200" height="260" rx="20" />
-    </clipPath>
-  </defs>
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="260" fill="url(#background)" />
-    <circle cx="1050" cy="130" r="216" fill="none" stroke="#B3D8CD" stroke-opacity="0.07" />
-    <circle cx="1050" cy="130" r="163" fill="none" stroke="#B3D8CD" stroke-opacity="0.07" />
-
-    <rect x="72" y="51" width="42" height="4" rx="2" fill="#A8D5C5" />
-    <text x="68" y="140" fill="#F4F7FA" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-2">Junyou Park</text>
-    <text x="72" y="188" fill="#B8C9D3" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="1">Backend Developer</text>
-
-    <g fill="none" stroke="#A8D5C5" stroke-width="2">
-      <path d="M819 130H870M819 130V75H914M819 130V185H914" stroke-opacity="0.3" />
-      <rect x="914" y="54" width="200" height="42" rx="9" fill="#A8D5C5" fill-opacity="0.045" stroke-opacity="0.3" />
-      <rect x="870" y="109" width="200" height="42" rx="9" fill="#A8D5C5" fill-opacity="0.075" stroke-opacity="0.55" />
-      <rect x="914" y="164" width="200" height="42" rx="9" fill="#A8D5C5" fill-opacity="0.045" stroke-opacity="0.3" />
-    </g>
-    <g fill="#A8D5C5">
-      <circle cx="819" cy="130" r="5" />
-      <circle cx="937" cy="75" r="4" fill-opacity="0.65" />
-      <circle cx="893" cy="130" r="4" />
-      <circle cx="937" cy="185" r="4" fill-opacity="0.65" />
-    </g>
-    <g stroke="#B8C9D3" stroke-width="3" stroke-linecap="round" stroke-opacity="0.3">
-      <path d="M958 75H995M1037 75H1089" />
-      <path d="M914 130H951M993 130H1045" />
-      <path d="M958 185H995M1037 185H1089" />
-    </g>
-  </g>
-  <rect x="0.5" y="0.5" width="1199" height="259" rx="19.5" fill="none" stroke="#B8C9D3" stroke-opacity="0.12" />
+  <desc id="description">짙은 네이비 단색 배경에 이름과 직무만 중앙 정렬한 박준유의 프로필 배너입니다.</desc>
+  <rect width="1200" height="260" rx="20" fill="#101827" />
+  <text x="600" y="132" text-anchor="middle" fill="#F4F7FA" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-2">Junyou Park</text>
+  <text x="600" y="184" text-anchor="middle" fill="#B8C9D3" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="1">Backend Developer</text>
 </svg>
