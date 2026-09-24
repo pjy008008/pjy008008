@@ -1,51 +1,23 @@
+![박준유 — Backend Developer](./assets/profile-banner.svg)
 
+팀에서 문제가 생겼을 때 <strong>“쟤한테 가봐!”의 “쟤”</strong>가 되고 싶은 **개발자** **박준유**입니다!
 
-### :man_technologist: About Me :
-Wanna Be FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Developer  
-- :telescope: I'm studying computer science and I'm contributing to the front end and back end for building web applications.  
-- :zap: In my free time, I enjoy playing the piano🎶, taking pictures📷  
+[포트폴리오 보러가기](https://pjy008008.github.io/portfolio)
 
----
+## 기술 스택
 
-### :hammer_and_wrench: Languages and Tools
+| 분류 | 기술 |
+| :--- | :--- |
+| Languages | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="32" height="32" /> |
+| Backend | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="32" height="32" /> |
+| Database | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="32" height="32" /> |
+| Frontend | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="32" height="32" /> |
+| Tools & Infra | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" title="Ubuntu" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="32" height="32" /> |
 
-#### 📝 Languages
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-</div>
+## 알고리즘 풀이
 
-#### 🛠️ Tools & Frameworks
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-</div>
+[![pjy008008의 Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=pjy008008)](https://solved.ac/pjy008008)
 
----
-### :fire: My Stats
+## 스트릭
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjy008008)](https://solved.ac/pjy008008)
-
----
-
-### 📚 My Study Projects
-#### 🗒️ TIL (Today I Learned)  
-[![TIL](https://img.shields.io/badge/github-TIL-yellow?logo=markdown&style=for-the-badge)](https://github.com/pjy008008/TIL)  
-- This repository is a daily log of what I’ve learned.
-
-#### 🌱 Spring Study Organization  
-[![Org](https://img.shields.io/badge/GitHub-JunyouPark--spring--study-green?logo=spring&style=for-the-badge)](https://github.com/JunyouPark-spring-study)  
-- I'm managing my Spring Boot study projects in this organization.  
-- This Git Organization is designed to support comprehensive Spring learning, with each repository focusing on different core and advanced aspects of the framework
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pjy008008&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub 연속 기여 기록](https://streak-stats.demolab.com/?user=pjy008008&theme=dark&background=000000)](https://git.io/streak-stats)
