@@ -14,27 +14,9 @@
 | Frontend | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="32" height="32" /> |
 | Tools & Infra | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" title="Ubuntu" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="32" height="32" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="32" height="32" /> |
 
-## 활동
+## 알고리즘 풀이 · GitHub 활동
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center" scope="col">알고리즘 풀이</th>
-      <th width="50%" align="center" scope="col">GitHub 활동</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://solved.ac/pjy008008">
-          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=pjy008008" alt="pjy008008의 Solved.ac 프로필" width="100%" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=pjy008008&amp;theme=dark&amp;background=000000" alt="GitHub 연속 기여 기록" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <a href="https://solved.ac/pjy008008"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=pjy008008" alt="알고리즘 풀이 — pjy008008의 Solved.ac 프로필" width="44%" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=pjy008008&amp;theme=dark&amp;background=000000" alt="GitHub 활동 — 연속 기여 기록" width="54%" /></a>
+</p>

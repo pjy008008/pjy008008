@@ -8,8 +8,8 @@
       <stop offset="1" stop-color="#0C1921" />
     </linearGradient>
     <radialGradient id="light">
-      <stop stop-color="#607995" stop-opacity="0.4" />
-      <stop offset="0.5" stop-color="#46596F" stop-opacity="0.18" />
+      <stop stop-color="#607995" stop-opacity="0.6" />
+      <stop offset="0.5" stop-color="#46596F" stop-opacity="0.27" />
       <stop offset="1" stop-color="#46596F" stop-opacity="0" />
     </radialGradient>
     <linearGradient id="border" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
