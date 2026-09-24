@@ -2,7 +2,7 @@
 
 팀에서 문제가 생겼을 때 <strong>“쟤한테 가봐!”의 “쟤”</strong>가 되고 싶은 **개발자** **박준유**입니다!
 
-[포트폴리오 보러가기](https://pjy008008.github.io/portfolio)
+[![포트폴리오 보러가기](./assets/portfolio-button.svg)](https://pjy008008.github.io/portfolio)
 
 ## 기술 스택
 

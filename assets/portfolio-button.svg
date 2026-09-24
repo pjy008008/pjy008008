@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="236" height="48" viewBox="0 0 236 48" role="img" aria-labelledby="title">
+  <title id="title">포트폴리오 보러가기</title>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="236" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#182231" />
+      <stop offset="1" stop-color="#0D141E" />
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="236" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61758D" stop-opacity="0.75" />
+      <stop offset="1" stop-color="#334255" stop-opacity="0.6" />
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="235" height="47" rx="11.5" fill="url(#surface)" stroke="url(#edge)" />
+  <text x="20" y="30" fill="#EDF3F9" font-family="'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="15" font-weight="600">포트폴리오 보러가기</text>
+  <path d="M185 15V33" stroke="#435268" stroke-opacity="0.6" />
+  <path d="M202 30L214 18M204 18H214V28" fill="none" stroke="#B8CDE3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
