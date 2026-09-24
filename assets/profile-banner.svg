@@ -1,7 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
   <title id="title">Junyou Park — Backend Developer</title>
-  <desc id="description">짙은 네이비 단색 배경에 이름과 직무만 중앙 정렬한 박준유의 프로필 배너입니다.</desc>
-  <rect width="1200" height="260" rx="20" fill="#101827" />
+  <desc id="description">네이비, 보라, 청록빛 그라데이션이 천천히 흐르는 박준유의 프로필 배너입니다. 이름과 직무는 고정되며 동작 줄이기 설정에서는 배경도 멈춥니다.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172340" />
+      <stop offset="0.5" stop-color="#211C3B" />
+      <stop offset="1" stop-color="#123940" />
+    </linearGradient>
+    <radialGradient id="violet">
+      <stop stop-color="#9370E8" stop-opacity="0.65" />
+      <stop offset="0.45" stop-color="#7760CC" stop-opacity="0.3" />
+      <stop offset="1" stop-color="#7760CC" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="teal">
+      <stop stop-color="#59C9CC" stop-opacity="0.55" />
+      <stop offset="0.45" stop-color="#3CA9B7" stop-opacity="0.25" />
+      <stop offset="1" stop-color="#3CA9B7" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B6ACEC" stop-opacity="0.45" />
+      <stop offset="0.5" stop-color="#BCCBEE" stop-opacity="0.08" />
+      <stop offset="1" stop-color="#99E4DA" stop-opacity="0.35" />
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="260" rx="20" />
+    </clipPath>
+  </defs>
+  <style>
+    .violet-glow { animation: drift-violet 18s ease-in-out infinite; }
+    .teal-glow { animation: drift-teal 22s ease-in-out infinite; }
+    @keyframes drift-violet {
+      0%, 100% { transform: translate(0, 0); }
+      50% { transform: translate(190px, 50px); }
+    }
+    @keyframes drift-teal {
+      0%, 100% { transform: translate(0, 0); }
+      50% { transform: translate(-210px, -55px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .violet-glow, .teal-glow { animation: none; }
+    }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="260" fill="url(#background)" />
+    <ellipse class="violet-glow" cx="160" cy="25" rx="520" ry="280" fill="url(#violet)" />
+    <ellipse class="teal-glow" cx="1070" cy="255" rx="500" ry="270" fill="url(#teal)" />
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="258.5" rx="19.25" fill="none" stroke="url(#border)" stroke-width="1.5" />
   <text x="600" y="132" text-anchor="middle" fill="#F4F7FA" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-2">Junyou Park</text>
   <text x="600" y="184" text-anchor="middle" fill="#B8C9D3" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="1">Backend Developer</text>
 </svg>
