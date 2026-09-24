@@ -1,4 +1,4 @@
-# pjy008008
+![박준유 — Backend Developer](./assets/profile-banner.svg)
 
 팀에서 문제가 생겼을 때 <strong>“쟤한테 가봐!”의 “쟤”</strong>가 되고 싶은 **개발자** **박준유**입니다!
 
