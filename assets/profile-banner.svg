@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
   <title id="title">Junyou Park — Backend Developer</title>
-  <desc id="description">검정에 가까운 네이비 배경에 낮은 채도의 어두운 그라데이션이 은은하게 흐르는 박준유의 프로필 배너입니다. 이름과 직무는 고정되며 동작 줄이기 설정에서는 배경도 멈춥니다.</desc>
+  <desc id="description">검정에 가까운 네이비 배경의 박준유 프로필 배너입니다. 이름과 직무는 고정되고, 직무 아래의 가느다란 빛이 천천히 왕복합니다. 동작 줄이기 설정에서는 모든 움직임이 멈춥니다.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
       <stop stop-color="#090D15" />
@@ -29,6 +29,7 @@
   <style>
     .violet-glow { animation: drift-violet 18s ease-in-out infinite; }
     .teal-glow { animation: drift-teal 22s ease-in-out infinite; }
+    .accent-motion { animation: slide-accent 4.8s ease-in-out infinite; }
     @keyframes drift-violet {
       0%, 100% { transform: translate(0, 0); }
       50% { transform: translate(190px, 50px); }
@@ -37,8 +38,12 @@
       0%, 100% { transform: translate(0, 0); }
       50% { transform: translate(-210px, -55px); }
     }
+    @keyframes slide-accent {
+      0%, 100% { transform: translate(-68px, 0); }
+      50% { transform: translate(68px, 0); }
+    }
     @media (prefers-reduced-motion: reduce) {
-      .violet-glow, .teal-glow { animation: none; }
+      .violet-glow, .teal-glow, .accent-motion { animation: none; }
     }
   </style>
   <g clip-path="url(#frame)">
@@ -49,4 +54,6 @@
   <rect x="0.75" y="0.75" width="1198.5" height="258.5" rx="19.25" fill="none" stroke="url(#border)" stroke-width="1.5" />
   <text x="600" y="132" text-anchor="middle" fill="#F4F7FA" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-2">Junyou Park</text>
   <text x="600" y="184" text-anchor="middle" fill="#B8C9D3" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="1">Backend Developer</text>
+  <rect x="510" y="214" width="180" height="4" rx="2" fill="#8296AD" fill-opacity="0.18" />
+  <rect class="accent-motion" x="578" y="214" width="44" height="4" rx="2" fill="#8296AD" fill-opacity="0.8" />
 </svg>
