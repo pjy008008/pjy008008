@@ -18,6 +18,6 @@
 
 [![pjy008008의 Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=pjy008008)](https://solved.ac/pjy008008)
 
-## 스트릭 🔥
+## 스트릭
 
 [![GitHub 연속 기여 기록](https://streak-stats.demolab.com/?user=pjy008008&theme=dark&background=000000)](https://git.io/streak-stats)
